@@ -1,0 +1,14 @@
+{
+  "name": "almk-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio site for Almk — AI developer, thumbnail designer, web developer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
